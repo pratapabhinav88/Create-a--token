@@ -10,8 +10,8 @@ Token Details: The contract stores important details about the token, including 
 # Getting Started
 To use the MyToken contract in your project, follow these steps: Clone the repository to your local machine: https://github.com/0Sujal/Metacrafters_Create-a-Token/blob/main/MyToken.sol
 
-#Executing program
+# Executing program
 Compile the contract using a Solidity compiler of your choice. Deploy the contract to an Ethereum network using a development tool like Remix, Truffle, or Hardhat. Interact with the contract by calling its functions. You can mint new tokens, burn existing tokens, and retrieve token balances.
 
-Authors
+# Authors
 Abhinav Pratap 21BCS5399@cuchd.in
